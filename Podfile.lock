@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Cache (5.2.0)
+  - HandyJSON (5.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Moya/RxSwift (13.0.1):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - ObjectMapper (3.5.1)
+  - Result (4.1.0)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+
+DEPENDENCIES:
+  - Cache
+  - HandyJSON
+  - Moya/RxSwift
+  - ObjectMapper
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - Alamofire
+    - Cache
+    - HandyJSON
+    - Moya
+    - ObjectMapper
+    - Result
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Cache: 807c5d86d01a177f06ede9865add3aea269bbfd4
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+
+PODFILE CHECKSUM: 6d50908e5c44c75b62a86bf5a127a2b4f1e32fd6
+
+COCOAPODS: 1.8.4
